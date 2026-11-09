@@ -72,3 +72,15 @@ Irene Susan Bobby
 
 ## License
 This project is available for educational and learning purposes.
+## Project Hardware
+
+The following images show the hardware setup and implementation of the strain gauge-based load measurement system.
+
+### Hardware Setup 1
+![Strain Gauge 1](images/Strain%20Gauge%201.jpeg)
+
+### Hardware Setup 2
+![Strain Gauge 2](images/Strain%20Gauge%202.jpeg)
+
+### Hardware Setup 3
+![Strain Gauge 3](images/Strain%20Gauge%203.jpeg)
